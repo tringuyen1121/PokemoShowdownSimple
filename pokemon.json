@@ -1,0 +1,109 @@
+[
+    {
+        "name": "Pikachu",
+        "types": [
+            "electric"
+        ],
+        "id": "025",
+        "moves": [
+            85,
+            231,
+            344,
+            280
+        ],
+        "hp": 55,
+        "attack": 70,
+        "defense": 75,
+        "speed": 110
+    },
+    {
+        "name": "Decidueye",
+        "types": [
+            "grass",
+            "ghost"
+        ],
+        "id": "724",
+        "moves": [
+            413,
+            662,
+            348,
+            211
+        ],
+        "hp": 78,
+        "attack": 107,
+        "defense": 87,
+        "speed": 70
+    },
+    {
+        "name": "Garchomp",
+        "types": [
+            "dragon",
+            "ground"
+        ],
+        "id": "445",
+        "moves": [
+            89,
+            242,
+            337,
+            401
+        ],
+        "hp": 108,
+        "attack": 130,
+        "defense": 90,
+        "speed": 102
+    },
+    {
+        "name": "Gardevoir",
+        "types": [
+            "psychic",
+            "fairy"
+        ],
+        "id": "282",
+        "moves": [
+            345,
+            94,
+            585,
+            247
+        ],
+        "hp": 68,
+        "attack": 125,
+        "defense": 90,
+        "speed": 80
+    },
+    {
+        "name": "Skarmory",
+        "types": [
+            "steel",
+            "flying"
+        ],
+        "id": "227",
+        "moves": [
+            404,
+            65,
+            157,
+            211
+        ],
+        "hp": 65,
+        "attack": 80,
+        "defense": 110,
+        "speed": 70
+    },
+    {
+        "name": "Emboar",
+        "types": [
+            "fire",
+            "fighting"
+        ],
+        "id": "500",
+        "moves": [
+            7,
+            359,
+            9,
+            444
+        ],
+        "hp": 110,
+        "attack": 123,
+        "defense": 65,
+        "speed": 65
+    }
+]
